@@ -1,0 +1,7 @@
+{
+  "prompt": "Professional female presenter speaking naturally to camera, accurate lip synchronization, subtle natural head movement and blinking, facial identity and outfit unchanged, steady lighting and camera.",
+  "cond_video": "/inputs/18.png",
+  "cond_audio": {
+    "person1": "/inputs/1.mp3"
+  }
+}
